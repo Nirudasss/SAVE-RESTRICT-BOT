@@ -42,9 +42,9 @@ async def buy_premium(client: Client, message: Message):
         "• **No Cooldowns**\n"
         "• **Custom Caption & Thumbnail**\n\n"
         "**💲 Pricing:**\n"
-        "• 1 Month: $5\n"
-        "• 1 Year: $40\n\n"
-        "**Contact Admin to Buy:** @RexBots_Official"
+        "• 1 Month: ₹70\n"
+        "• 1 Year: ₹750\n\n"
+        "**Contact Admin to Buy:** @PRESIDENTIND7"
     )
     await message.reply_text(text)
 
